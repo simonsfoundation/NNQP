@@ -1,7 +1,7 @@
 NNQP
 ====
 
-Efficient implementation of non negative quadratic programming solver in numba 
+Efficient implementation of nonnegative quadratic programming solver in numba 
 The solver implements a coordinate descent algorithm to find a solution to the problem
 
 ```
