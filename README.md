@@ -14,7 +14,7 @@ X>=0
 
 
 **Authors:** 
-Andrea Giovannucci and Cengiz Pehlevan
+Andrea Giovannucci and Cengiz Pehlevan.
 
 Installation
 ============
